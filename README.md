@@ -1,15 +1,9 @@
 # Pokemon-Bot-With-OCR Project
 Inspired by automation of tasks seen everywhere, this simply automates the online pokemon game with use of texts extracted using OCR. 
 
-First Video is screen recorded and second is the phone recorded to show the automated bot.
-
 ---
 
-[demo video 2](demo2.mp4)
-
----
-
-[demo video](demo.mp4)
+[pokeDemo](pokemonDemo.gif)
 
 ---
 

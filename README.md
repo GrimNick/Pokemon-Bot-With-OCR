@@ -1,9 +1,14 @@
 # Pokemon-Bot-With-OCR Project
+<p align="center">
+
 Inspired by automation of tasks seen everywhere, this simply automates the online pokemon game with use of texts extracted using OCR. 
+</p>
 
 ---
 
-[pokeDemo](pokemonDemo.gif)
+<p align="center">
+  <img src="pokemonDemo.gif" alt="Demo GIF" width="800">
+</p>
 
 ---
 

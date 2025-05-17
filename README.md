@@ -7,7 +7,9 @@ Inspired by automation of tasks seen everywhere, this simply automates the onlin
 ---
 
 <p align="center">
-  <img src="pokemonDemo.gif" alt="Demo GIF" width="800">
+  <img src="media/demo1.gif" alt="Demo GIF" width="800">
+
+<img src="media/demo2.gif" alt="Demo GIF" width="800">
 </p>
 
 ---
@@ -101,7 +103,7 @@ The initial entire pic is this, where the bot keeps moving left and right in reg
 
 ---
 
-![FullPic](fullPic.png)
+![FullPic](media/fullPic.png)
 
 ---
 
@@ -109,7 +111,7 @@ The bot will then encounter pokemon and this is the full picture from where you 
 
 ---
 
-![FullPic2](fullPic2.png)
+![FullPic2](media/fullPic2.png)
 
 ---
 
@@ -117,7 +119,7 @@ The bot will then use OCR to analyze texts and will store string between wild an
 
 ---
 
-![combatLog](combatLog.png)
+![combatLog](media/combatLog.png)
 
 ---
 
@@ -125,14 +127,14 @@ The bot will then analyze chatLog until it encounter you gain $ which indicates 
 
 ---
 
-![chatLog](chatLog.png)
+![chatLog](media/chatLog.png)
 
 ---
 
 
 ## IV. Tests and Results
 
-I tested the bot by making it run for over 5 hours to which it detected enemy name accurately , type of enemy (wild, shiny, elite) accurately, found battle end accurately. The result was in 10 second it earned about 90-130 $ in game currency. So taking average of 100$ poke currency this bot successfully earned 36,000$ in an hour and 1,728,000$ poke currency able to entirely disrupt the online gaming market and trading. This teaches us the impact of automation of tasks in market and trading inside a game where grinding is a core function (eg: Pokemon, WoW)
+I tested the bot by making it run for over 5 hours to which it detected enemy name accurately , type of enemy (wild, shiny, elite) accurately, found battle end accurately. The result was in 10 second it earned about 90-130 $ in game currency. So taking average of 100$ poke currency this bot successfully earned 36,000$ in an hour and 1,728,000$ poke currency in 2 days which is able to entirely disrupt the pokemon online gaming market and trading. This teaches us the impact of automation of tasks in market and trading inside a game where grinding is a core function (eg: Pokemon, WoW)
 
 ---
 

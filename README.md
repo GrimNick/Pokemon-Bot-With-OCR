@@ -42,12 +42,14 @@ It is assumed that the user has basic knowledge of python before trying to run t
 2. Install tesseract ocr for python. Named as pytesseract. Make sure it works and path is well defined.
 
 3. Install requirements.txt
+```bash
 
 pip install -r requirements.txt
-
+```
 4. Resolution can vary so the required coordinate of rectangle can be different in different monitors so run findCursor.py and find the combatlog position top left x1,y1 and bottom right x2,y2. Input these values in
 
 
+```bash
 
 FarmBot.py
 eg:
@@ -61,10 +63,15 @@ def isEnemy():
 ..
 img = pyautogui.screenshot(region=(449,337,758-449,389-337)) 
 ..
+
+```
+
 Similarly find position of chat top left x1,y1 and bottom right x2,y2. and do the same as above example and put it in 
 
-def isFightFinish():
+```bash
 
+def isFightFinish():
+```
 
 Note: Use Ctrl+c or Ctrl+z to exit program as no exit function is made for this infinite loop of findCursor.py
 
@@ -81,7 +88,7 @@ This project aimed to make a automated bot by using OCR,cv2 and pyautogui in foc
 
 ## I. Problem Description
 
-here write about how botting helps to understand the method to stop it and understand the system better
+This project explores how automations works and affects market and trading in online games. What are the imitating qualities of a bot which is made simply with eyes like behaviour (GUI and OCR). You can observe such implications with this pokemon game as our experimental ground.
 
 ---
 
